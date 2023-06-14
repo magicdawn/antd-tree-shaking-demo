@@ -5,7 +5,6 @@
 // ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
 //   <React.StrictMode>
 //     <Button>Hello</Button>
-//     {/* <App /> */}
 //   </React.StrictMode>
 // )
 
